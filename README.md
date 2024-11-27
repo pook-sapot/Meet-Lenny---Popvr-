@@ -1,4 +1,4 @@
-# Meet Lenny - Popover
+# Meet Lenny - Popover Embed
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/heyzel/pen/LEPYgwv](https://codepen.io/heyzel/pen/LEPYgwv).
+A Pen created on CodePen.io. 
 
